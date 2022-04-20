@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=monterillo12&label=PROFILE+VIEWS)
 
+https://monterillo12.github.io/
 
 - I am learning:
 	- Lua
@@ -17,9 +18,6 @@
 	- <a href="https://discord.com/users/337679522226896911">Discord</a>
 	- <a href="https://blackendermanxd@gmail.com">Mail</a>
 	- <a href="https://twitter.com/monterillo12">Twitter</a>
-
-- Projects:
-	- I'm actually working in 2 webpages and 1 FiveM resource (a tablet)
 
 - In a soon future I want to start learning Vue.js, C++ and Pyton 👾
 
